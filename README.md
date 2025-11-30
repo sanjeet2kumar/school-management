@@ -1,16 +1,5 @@
 # 📚 School Management System – Full Project README
 
-A complete end-to-end README covering all 6 requested points:
-
-1. Spring Boot School Management description
-2. Microservices structure (optional future expansion)
-3. Project setup (Java 17 + Maven + IntelliJ)
-4. API documentation
-5. Beginner-friendly guide with steps
-6. Screenshots/flow placeholders
-
----
-
 ## 🚀 1. Project Overview – School Management System
 
 This School Management System is a full-stack application built using:
