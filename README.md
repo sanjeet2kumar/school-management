@@ -13,8 +13,8 @@ This School Management System is a full-stack application built using:
 ### ✨ Features
 
 * Student Management (CRUD)
-* Teacher Management *(future)*
-* Course & Class Assignment *(future)*
+* Teacher Management 
+* Course & Class Assignment 
 * Authentication & Authorization using **Spring Security** *(future)*
 * CORS-enabled for frontend communication
 
